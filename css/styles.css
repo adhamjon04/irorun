@@ -142,7 +142,7 @@ img {
   color: #222;
   position: fixed;
   z-index: 5;
-  left: -45px;
+  left: -49px;
   display: inline-block;
   padding: 8px 26px;
   background-color:  #39CDCC;
@@ -213,7 +213,7 @@ img {
   margin-bottom: 65px;
 }
 .works__container{
-  margin-left: 194px;
+  margin-left: 95px;
   align-items: center;
   justify-content: space-between;
  
@@ -238,8 +238,8 @@ img {
   text-align: center;  
 }
 .works__account{
-  width: 288px;
-  height: 327px;
+  width: 303px;
+  height: 339px;
   box-shadow: 0px 0px 10px #B7B7B7;
   margin-right: 92px;
 }
@@ -269,7 +269,7 @@ img {
   
 }
 .works__text{
-  width: 248px;
+  width: 270px;
   height: 25px;
   margin-left: 20px;
   margin-top: 31px;
@@ -279,6 +279,7 @@ img {
   line-height: 25px;
   text-align: center;
   color: #333333;
+  padding-right: 8px;
   
 }
 .button{
@@ -313,7 +314,7 @@ img {
 .get__title{
   width: 555px;
   height: 35px;
-  margin-left: 443px;
+  margin-left: 225px;
   padding-top: 131px;
   padding-bottom: 75px;
   font-family: "Work Sans";
